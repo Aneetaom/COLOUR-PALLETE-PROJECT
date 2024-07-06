@@ -1,0 +1,251 @@
+*{
+    padding: 1%;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    
+}
+/* .box{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-image src: url(https://tse2.mm.bing.net/th?id=OIP.5vzAfoHDyne5GipTDbl_VAHaHV&pid=Api&P=0&h=220;)
+border-image-slice: 15px;
+border-image-width: 15px;
+border-image-repeate:round;
+
+}
+
+.child{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+   margin: 40px;
+   
+}
+
+
+
+.fontstyle{
+   
+      padding: 10px; 10px; 5px; 5px;  
+      margin: 25px;
+      
+} */
+ .layout{
+text-decoration: underline;
+text-align: center;
+color: rgb(133, 14, 14);
+padding: 20px 0px 0px 0px;
+ }
+
+.user{
+    width: 600px;
+    height: 600px;
+   margin: 0px 350px;
+    border: 2px solid rgb(133, 14, 14);
+    position: relative;
+   
+    
+}
+.user1, .user2, .user3, .user4 ,.user5, .user6,
+  .user7, .user8, .user9, .user10, .user11, .user12, .user13 
+{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    top: 20%;
+   margin: 0px 50px;
+} 
+
+.user1{
+    background-color:  #330014;
+    left: 2%;
+}
+.user2{
+    background-color: #660029;
+    left:8%;
+}
+.user3{
+    background-color:  #800033;
+    left: 14%;
+}
+.user4{
+    background-color:  #b30047;
+    left: 20%;
+}
+.user5{
+    background-color:   #e6005c;
+    left: 25%;
+}
+.user6{
+    background-color: #e62874; 
+    left: 30%;
+}
+.user7{
+    background-color:  #ff3385;
+    left: 35%;
+}
+.user8{
+    background-color:   #f05b96;
+    left: 40%;
+}
+.user9{
+    background-color:   #e64987;
+    left: 45%;
+}
+.user10{
+    background-color:   #e43a8f;
+    left: 50%;
+}
+.user11{
+    background-color:   #f72d92;
+    left: 55%;
+}
+.user12{
+    background-color:   #ff66b3;
+    left: 60%;
+}
+.user13{
+    background-color:   #e0539a;
+    left: 65%;
+}
+
+
+
+
+
+.user14, .user15, .user16, .user17 ,.user18, .user19,
+  .user20, .user21, .user22, .user23, .user24, .user25, .user26 
+{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    top: 50%;
+    margin: 0px 50px;
+} 
+
+
+
+
+
+.user14{
+    background-color:  #113300;
+    left: 2%;
+}
+.user15{
+    background-color: #306b13;
+    left:8%;
+}
+.user16{
+    background-color: #339900;
+    left: 14%;
+}
+.user17{
+    background-color:  #50c018;
+    left: 20%;
+}
+.user18{
+    background-color:  #50a326;
+    left: 25%;
+}
+.user19{
+    background-color:  #3bb300;
+    left: 30%;
+}
+.user20{
+    background-color:  #44cc00;
+    left: 35%;
+}
+.user21{
+    background-color:  #4ce600;
+    left: 40%;
+}
+.user22{
+    background-color:   #66ff1a;
+    left: 45%;
+}
+.user23{
+    background-color:  #6fe931;
+    left: 50%;
+}
+.user24{
+    background-color:  #62c530;
+    left: 55%;
+}
+.user25{
+    background-color:  #4db916;
+    left: 60%;
+}
+.user26{
+    background-color:  #53c91c;
+    left: 65%;
+}
+
+
+
+.user27, .user28, .user29, .user30 ,.user31, .user32,
+  .user33, .user34, .user35, .user36, .user37, .user38, .user39 
+{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    top: 80%;
+    margin: 0px 50px;
+} 
+
+.user27{
+    background-color:  #1a0f00;
+    left: 2%;
+}
+.user28{
+    background-color: #331f00;
+    left:8%;
+}
+.user29{
+    background-color:  #4d2e00;
+    left: 14%;
+}
+.user30{
+    background-color:   #804d00;
+    left: 20%;
+}
+.user31{
+    background-color:   #b36b00;
+    left: 25%;
+}
+.user32{
+    background-color:  #e68a00; 
+    left: 30%;
+}
+.user33{
+    background-color:  #ffa31a;
+    left: 35%;
+}
+.user34{
+    background-color:   #ffb84d;
+    left: 40%;
+}
+.user35{
+    background-color:   #ff9900;
+    left: 45%;
+}
+.user36{
+    background-color:   #ffa31a;
+    left: 50%;
+}
+.user37{
+    background-color:    #e79b28;
+    left: 55%;
+}
+.user38{
+    background-color:   #da8a12;
+    left: 60%;
+}
+.user39{
+    background-color:    #ee9e27;
+    left: 65%;
+}
